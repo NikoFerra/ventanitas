@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ventanitas</string>
+    <string-array name="ListadoDieciocho">
+        <item>Empanadas</item>
+        <item>Anticuchos</item>
+        <item>terremeoto</item>
+        <item>cordero al palo</item>
+        <item>choripan</item>
+        <item>papas fritas</item>
+        <item>piscola</item>
+        <item>bailar</item>
+        <item>vino</item>
+        <item>sopaipa</item>
+        <item>trompo</item>
+        <item>volantin</item>
+        <item>rayuela</item>
+        <item>ponche</item>
+        <item>agua ardiente</item>
+        <item>calzon roto</item>
+        <item>pebre</item>
+        <item>chicharron</item>
+    </string-array>
+</resources>
